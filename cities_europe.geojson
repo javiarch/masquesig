@@ -1,4 +1,4 @@
-var geodata = {
+{
 "type": "FeatureCollection",
                                                                                 
 "features": [
@@ -1323,4 +1323,4 @@ var geodata = {
 { "type": "Feature", "properties": { "osm_id": "3774813875", "name": "Sanlúcar de Barrameda", "barrier": null, "highway": null, "ref": null, "address": null, "is_in": null, "place": "city", "man_made": null, "other_tags": "\"name:ru\"=>\"????????-??-?????????\",\"population\"=>\"67.385\",\"wikipedia\"=>\"en:Sanlúcar de Barrameda\"" }, "geometry": { "type": "Point", "coordinates": [ -6.3541546, 36.7788558 ] } },
 { "type": "Feature", "properties": { "osm_id": "3799851043", "name": "Vibo Valentia", "barrier": null, "highway": null, "ref": null, "address": null, "is_in": null, "place": "city", "man_made": null, "other_tags": "\"capital\"=>\"6\",\"population\"=>\"34006\"" }, "geometry": { "type": "Point", "coordinates": [ 16.0924801, 38.677407 ] } }
 ]
-};
+}
